@@ -1,4 +1,4 @@
 install:
   pip3 install -r requirements.txt
 experiment:
-  nvidia-smi
+  python main.py
